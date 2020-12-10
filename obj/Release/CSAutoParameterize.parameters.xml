@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="UCAP-MainConnectionString-Web.config Connection String" description="UCAP-MainConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="persistsecurityinfo=True;server=ucap.cfqaouqaacej.us-east-1.rds.amazonaws.com;user id=DBGod;password=J!J!S_!AG!G-2020y;database=UCAP-Main" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\Universidad\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UCAP-MainConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="UCAP-MainConnectionString2-Web.config Connection String" description="UCAP-MainConnectionString2 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="persistsecurityinfo=True;server=ucap.cfqaouqaacej.us-east-1.rds.amazonaws.com;user id=DBGod;password=J!J!S_!AG!G-2020y;database=UCAP-Main;allowzerodatetime=True;convertzerodatetime=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\Universidad\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UCAP-MainConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="UCAP-MainConnectionString3-Web.config Connection String" description="UCAP-MainConnectionString3 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="persistsecurityinfo=True;server=ucap.cfqaouqaacej.us-east-1.rds.amazonaws.com;user id=DBGod;password=J!J!S_!AG!G-2020y;database=UCAP-Main;allowzerodatetime=False;convertzerodatetime=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\Universidad\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UCAP-MainConnectionString3']/@connectionString" />
+  </parameter>
+  <parameter name="UCAP-MainConnectionString4-Web.config Connection String" description="UCAP-MainConnectionString4 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="password=J!J!S_!AG!G-2020y;persistsecurityinfo=True;user id=DBGod;server=ucap.cfqaouqaacej.us-east-1.rds.amazonaws.com;database=UCAP-Main;convertzerodatetime=True;allowzerodatetime=False;allowuservariables=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\Universidad\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UCAP-MainConnectionString4']/@connectionString" />
+  </parameter>
+</parameters>
