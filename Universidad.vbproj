@@ -211,6 +211,7 @@
     <Content Include="Images\about2.jpg" />
     <Content Include="Images\about3.jpg" />
     <Content Include="Images\About4.jpg" />
+    <Content Include="Images\Calendario.png" />
     <Content Include="Images\Logo_Big.png" />
     <Content Include="Images\Logo_Medium.png" />
     <Content Include="Images\Logo_Tiny.png" />

@@ -5,7 +5,7 @@
 
 
     <div class="jumbotron">
-        <h2>Universidad de Ciencias Agropecuarias de Pnamá</h2>
+        <h2>Universidad de Ciencias Agropecuarias de Panamá</h2>
         <br />
         <br />
 
@@ -38,7 +38,10 @@
         <div class="col-md-4">
             <h2>Calendario Academico 2020</h2>
             <p>
-                
+                <div class="col-md-5"> 
+                <img src="Images/Calendario.png" height="500"class="img-fluid"  alt="Responsive image">
+
+            </div>
             </p>
             <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
